@@ -1,0 +1,25 @@
+﻿.footerlinks{
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.footerlinks:hover {
+    color: maroon;
+    text-decoration: none;
+}
+
+.footer1 {
+    background-color: deepskyblue;
+}
+
+.footer2 {
+    background-color: dodgerblue;
+}
+
+.header {
+    background-color: dodgerblue;
+    font-size: 17px;
+    font-weight: bold;
+}
